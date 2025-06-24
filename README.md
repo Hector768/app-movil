@@ -1,22 +1,13 @@
-# 📱 Aplicación Móvil - [Cruz Angeles]
+🚀 Aplicación móvil en desarrollo con Angular e Ionic
 
-Este repositorio contiene el desarrollo de una aplicación móvil construida con Android Studio. El proyecto se encuentra actualmente en etapa de desarrollo y tiene como objetivo ofrecer una solución innovadora y funcional en el ámbito de [describir brevemente el propósito, por ejemplo: educación, salud, gestión personal, etc.].
+Este repositorio contiene el desarrollo de una aplicación móvil híbrida construida con **Angular** e **Ionic Framework**, diseñada y editada desde **Visual Studio Code**. El proyecto se encuentra en una etapa temprana de desarrollo, enfocándose en la estructura base, la integración de componentes reutilizables y la preparación para futuras funcionalidades dinámicas e interactivas.
 
-### 🚧 Estado del proyecto
-En desarrollo activo. Algunas funcionalidades clave aún están en proceso de implementación. Se agradecen sugerencias, ideas o colaboración.
+🔧 Tecnologías empleadas:
+- **Angular** (Frontend SPA)
+- **Ionic Framework** (UI móvil híbrida)
+- **TypeScript** (lógica estructurada y escalable)
+- **Visual Studio Code** (entorno de desarrollo)
 
-### 🛠️ Tecnologías utilizadas
-- Kotlin / Java
-- Android Studio
-- XML para diseño de interfaces
-- Gradle para gestión de dependencias
-
-### 📦 Estructura del proyecto
-> Para facilitar el análisis y descarga, el proyecto ha sido comprimido en un archivo `.zip`.  
-> Nota: Se han excluido carpetas generadas automáticamente como `/build` y `.gradle` para reducir el tamaño del archivo.
-
-### 📌 Nota
-Este repositorio está pensado como respaldo y seguimiento del proceso de desarrollo. No representa aún una versión final o estable del producto.
-
----
+📌 Estado actual: En construcción.  
+Se irán subiendo nuevas versiones y mejoras de forma progresiva conforme avance el desarrollo.
 
