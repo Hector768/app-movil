@@ -10,4 +10,6 @@ Este repositorio contiene el desarrollo de una aplicación móvil híbrida const
 
 📌 Estado actual: En construcción.  
 Se irán subiendo nuevas versiones y mejoras de forma progresiva conforme avance el desarrollo.
+Modo prueba de la aplicacion movil:https://36c3567b-748f-4469-8b41-6bf4e13aefd5-00-3p3wu5mwug40l.janeway.replit.dev/
+
 
